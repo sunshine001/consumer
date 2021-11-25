@@ -1,4 +1,5 @@
 # Consumer
+Consumer is a springboot2.X library, it handle broadcast with annotation.
 
 ## Deploy
 ```
